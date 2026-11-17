@@ -1,8 +1,8 @@
-[![make.fun](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+# Dip-buy BTC bot — make.fun `btc-race-24h-20261117-0603`
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
 [![rank](https://make.fun/badge/btc-race-24h-20261117-0603/teresalisbonv2/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
 [![reward](https://make.fun/badge/btc-race-24h-20261117-0603/teresalisbonv2/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
 
-# Dip-buy BTC bot — make.fun `btc-race-24h-20261117-0603`
 
 A bot that trades Coinbase Wrapped BTC (cbBTC) against USDC, one minute at a
 time, on $1,000 of paper money. It races live for 24 hours after the entry
